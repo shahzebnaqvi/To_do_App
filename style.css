@@ -1,0 +1,45 @@
+body
+{
+    background-color: rgb(11, 9, 112);
+    color: whitesmoke;
+
+}
+.btn
+{
+    background-color: whitesmoke;
+    color:black;
+    margin-left: 10px  ;
+    width: 80px;
+    border: transparent;
+    height: 20px;
+    font-weight: 600;
+    font-family: monospace;
+    
+}
+.btn2{
+    background-color: whitesmoke;
+    color: black;
+    border: transparent;
+    height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+.btn2:hover{
+    background-color: white;
+    border:1px solid blueviolet;
+    color: blueviolet;
+}
+.btn:hover{
+    background-color: white;
+    border:1px solid blueviolet;
+    color: blueviolet   ;
+}
+li{
+    margin-top: 10px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inn{
+    height: 30px;
+}
+
